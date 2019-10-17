@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.solo9.coordinatetabs.base",
+    "sha256_cert_fingerprints":
+    ["1B:DF:FD:23:59:52:A7:F0:E1:32:0D:A4:4D:D1:56:02:E0:D3:F0:1D:F9:09:85:41:AF:1A:44:BF:EB:24:C4:D1"]
+  }
+}]
